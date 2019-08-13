@@ -1,0 +1,8 @@
+{
+    "cart":[
+        {"name":"手机","price":1500,"amount":0,"money":0},
+        {"name":"电脑","price":3500,"amount":0,"money":0},
+        {"name":"笔记本","price":5000,"amount":0,"money":0},
+        {"name":"爆米花","price":5000,"amount":0,"money":0}
+    ]
+}
